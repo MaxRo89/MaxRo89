@@ -23,7 +23,6 @@
   Estudiante de Ingeniería de Sistemas en la Universidad Autónoma del Carmen (9° semestre),
   con enfoque en desarrollo web e inteligencia artificial. Actualmente presto servicio social
   en el Departamento de Sistemas de la Rectoría, desarrollando y modernizando sitios institucionales.
-  Realicé un intercambio académico en la Universidad Tecnológica de Pereira, Colombia (2025).
 </p>
 
 <h3 align="left">🛠 Lenguajes y herramientas</h3>
