@@ -28,7 +28,7 @@ OUT_DIR = os.path.join(ROOT, "assets", "stage")
 REL = "assets/stage"
 W = 900
 
-RED, BLACK, WHITE = "#e60012", "#000", "#fff"
+RED, BLACK, WHITE = "#0a6cff", "#000", "#fff"
 MONO = "'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace"
 SANS = "'Arial Black','Helvetica Neue',Arial,sans-serif"
 SERIF = "Georgia,'Times New Roman',serif"
