@@ -1,0 +1,43 @@
+{
+  "name": [
+    "MAX",
+    "RODRÍGUEZ"
+  ],
+  "role": "ESTUDIANTE DE ING. DE SOFTWARE",
+  "stack": [
+    "REACT",
+    "NODE.JS",
+    "PHP",
+    "MYSQL",
+    "JAVA"
+  ],
+  "location": "MÉXICO",
+  "about": "Soy estudiante de noveno semestre en la UNACAR, México. Hago mi servicio social en el Departamento de Sistemas de Rectoría e hice un intercambio académico en la Universidad Tecnológica de Pereira, Colombia. Me gusta el desarrollo y diseño web, dentro y fuera del aula.",
+  "targets": [
+    {
+      "label": "AGENCIA MAX",
+      "tag": "REACT",
+      "url": "https://github.com/MaxRo89?tab=repositories"
+    },
+    {
+      "label": "SISTEMA EXPERTO",
+      "tag": "PROLOG",
+      "url": "https://github.com/MaxRo89?tab=repositories"
+    },
+    {
+      "label": "CLASIFICADOR IRIS",
+      "tag": "R",
+      "url": "https://github.com/MaxRo89?tab=repositories"
+    }
+  ],
+  "contacts": [
+    {
+      "label": "LINKEDIN",
+      "url": "https://www.linkedin.com/in/max-rodríguez-745a1233a/"
+    },
+    {
+      "label": "EMAIL",
+      "url": "mailto:rmax9910@gmail.com"
+    }
+  ]
+}
