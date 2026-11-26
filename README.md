@@ -9,11 +9,7 @@
 
 <p align="center"><img src="assets/stage/about.svg" width="100%" alt="Soy estudiante de noveno semestre en la UNACAR, México. Hago mi servicio social en el Departamento de Sistemas de Rectoría e hice un intercambio académico en la Universidad Tecnológica de Pereira, Colombia. Me gusta el desarrollo y diseño web, dentro y fuera del aula." /></p>
 
-<p align="center"><img src="assets/stage/h-targets.svg" width="100%" alt="Select target" /><br>
-<a href="https://github.com/MaxRo89?tab=repositories"><img src="assets/stage/target-0.svg" width="100%" alt="AGENCIA MAX: REACT" /></a><br>
-<a href="https://github.com/MaxRo89?tab=repositories"><img src="assets/stage/target-1.svg" width="100%" alt="SISTEMA EXPERTO: PROLOG" /></a><br>
-<a href="https://github.com/MaxRo89?tab=repositories"><img src="assets/stage/target-2.svg" width="100%" alt="CLASIFICADOR IRIS: R" /></a><br>
-</p>
+
 
 <p align="center"><img src="assets/stage/h-contact.svg" width="100%" alt="Contact" /><br>
 <a href="https://www.linkedin.com/in/max-rodríguez-745a1233a/"><img src="assets/stage/contact-linkedin.svg" height="46" alt="Linkedin" /></a>
