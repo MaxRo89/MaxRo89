@@ -5,7 +5,7 @@
   (the "Refresh profile" GitHub Action also does this daily with fresh stats/posts)
 -->
 
-<p align="center"><img src="assets/stage/hero.svg" width="100%" alt="Max Rodríguez, Estudiante De Ing. De Software. — commits, — stars, — public repos." /></p>
+<p align="center"><img src="assets/stage/hero.svg" width="100%" alt="Max Rodríguez, Estudiante De Ing. De Software. 70 commits, 2 stars, 18 public repos." /></p>
 
 <p align="center"><img src="assets/stage/about.svg" width="100%" alt="Soy estudiante de noveno semestre en la UNACAR, México. Hago mi servicio social en el Departamento de Sistemas de Rectoría e hice un intercambio académico en la Universidad Tecnológica de Pereira, Colombia. Me gusta el desarrollo y diseño web, dentro y fuera del aula." /></p>
 

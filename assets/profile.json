@@ -1,1 +1,10 @@
-{"stats": {"repos": "—", "stars": "—", "commits": "—", "followers": "—"}, "repos": {}, "posts": []}
+{
+  "stats": {
+    "repos": 18,
+    "stars": 2,
+    "commits": 70,
+    "followers": 5
+  },
+  "repos": {},
+  "posts": []
+}
