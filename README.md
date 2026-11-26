@@ -18,4 +18,4 @@
 
 <p align="center"><img src="assets/stage/ticker.svg" width="100%" alt="Stats ticker" /></p>
 
-<p align="center"><sub>Diseño basado en el perfil de <a href="https://github.com/basteez">@basteez</a>, usado con su permiso.</sub></p>
+
